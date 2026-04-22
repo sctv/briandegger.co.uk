@@ -1,4 +1,4 @@
- Brian Degger PhD
+ Brian Degger
 =========
 
 
